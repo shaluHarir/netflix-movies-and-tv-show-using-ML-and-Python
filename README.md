@@ -7,3 +7,6 @@ Exploratory Data Analysis (EDA) was conducted to gain insights into the dataset.
 ### Predictive Modeling
 
 A variety of machine learning algorithms were explored for predicting user preferences. The dataset was split into training and testing sets to evaluate the performance of the models. Multiple evaluation metrics were used to assess the accuracy and reliability of the predictions.
+### Challenges and Limitations
+
+Throughout the analysis and prediction process, we encountered several challenges. These included handling missing values, dealing with outliers, and addressing potential biases in the dataset. It is important to acknowledge these limitations and consider them when interpreting the results.
